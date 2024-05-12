@@ -6,6 +6,8 @@ I am pursuing a Master's degree in Computer Science, specializing in data analys
 
 
 ### Languages and Tools:
+- **C Programming**
+
 - **Python**
 
 - **SQL**
